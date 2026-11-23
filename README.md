@@ -2,7 +2,7 @@
 
 Azure Sentinel detection engineering and cloud security use cases
 
-This repository demonstrates hands-on detection engineering and security operations work using Microsoft Sentinel, Microsoft Entra ID telemetry, and endpoint logs.
+This repository is a work in progress documenting my learning and hands-on development of detection engineering capabilities using Microsoft Sentinel, Microsoft Entra ID telemetry, and endpoint logs.
 
 ## Background
 I have a professional background in Security Operations (SOC) and Incident Response, with experience investigating alerts across endpoint, identity, and network telemetry.
@@ -34,7 +34,7 @@ This lab work is aligned with the Microsoft SC-200 Security Operations Analyst l
 - Incident investigation workflows
 - KQL-based threat hunting
 
-## Detection Coverage (Planned/In Progress)
+## Planned Detection Use Cases
 
 Initial focus is on identity and endpoint-based detections. Coverage will expand as detection logic is implemented and tuned
 
